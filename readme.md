@@ -16,6 +16,13 @@
 
 ## CHANGELOG
 
+#### 2021/09/18
+
+- 添加 Vue 双向绑定章节
+- 添加 algolia 搜索插件
+- 修复部分 issue 中提的 bug
+- 更新 LICENSE
+
 #### 2021/09/15
 
 - 修复 issue 中提的 bug
