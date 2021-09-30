@@ -8,7 +8,9 @@
 
 阅读时您可能会发现内容上的错误，可以直接在相关章节末尾的评论区进行留言，留言内容会被自动同步到仓库 Issues 中。您也可以在仓库 [Issues](https://github.com/HZFE/awesome-interview/issues) 中直接留下宝贵意见。欢迎读者对内容仓库进行 [订阅/Watch](https://github.com/hzfe/awesome-interview) 或加入群聊，我们会持续添加和订正内容。
 
-<img src="https://user-images.githubusercontent.com/17002181/134114194-6666fff3-4ae0-458b-89f6-efacd080a362.png" height="200" />
+<img src="https://user-images.githubusercontent.com/17002181/135381385-f0dc86cd-be39-4826-87dd-30ddeaaa0229.jpg" height="200" />
+
+添加机器人小冰后，回复关键词"<strong>剑指前端</strong>"，获取入群链接。
 
 ## 适合人群
 
@@ -17,6 +19,11 @@
 - 前端面试官可参考本书的题型和题目，按岗位需求对候选人进行有梯度的考察。
 
 ## CHANGELOG
+
+#### 2021/09/30
+
+- 更新 algolia 搜索插件
+- 添加机器人账号
 
 #### 2021/09/21
 
