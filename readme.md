@@ -20,6 +20,11 @@
 
 ## CHANGELOG
 
+#### 2021/10/14
+
+- 添加 sitemap
+- 修复部分 issue 中提的 bug：JavaScript 异步编程
+
 #### 2021/10/03
 
 - 更新前言
