@@ -20,6 +20,12 @@
 
 ## CHANGELOG
 
+#### 2021/1/18
+
+- 新增：前端路由实现
+- 优化：谈谈 CSS 预处理器
+- 优化：HOC vs Render Props vs Hooks
+
 #### 2022/1/17
 
 - 新增：React 事件机制原理
