@@ -2,6 +2,11 @@
 
 [阅读地址 1](https://febook.hzfe.org/awesome-interview/) [阅读地址 2](https://hzfe.github.io/awesome-interview/)
 
+## 友情链接
+
+[code996](https://github.com/hellodigua/code996) | 分析工具：统计 Git 项目的 commit 时间分布，推导项目编码强度
+<img src="https://github.com/hellodigua/code996/raw/master/public/preview/1.png" height="200" />
+
 ## 互动与勘误
 
 本书目前在 [GitHub](https://github.com/hzfe/awesome-interview) 中开源了第一版内容的部分题目，旨在接受广大开发者的检验和收集读者反馈后，能将本书打磨得更好。
