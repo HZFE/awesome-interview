@@ -2,11 +2,6 @@
 
 [阅读地址 1](https://febook.hzfe.org/awesome-interview/) [阅读地址 2](https://hzfe.github.io/awesome-interview/)
 
-## 友情链接
-
-[code996](https://github.com/hellodigua/code996) | 分析工具：统计 Git 项目的 commit 时间分布，推导项目编码强度
-<img src="https://github.com/hellodigua/code996/raw/master/public/preview/1.png" height="200" />
-
 ## 互动与勘误
 
 本书目前在 [GitHub](https://github.com/hzfe/awesome-interview) 中开源了第一版内容的部分题目，旨在接受广大开发者的检验和收集读者反馈后，能将本书打磨得更好。
@@ -23,7 +18,15 @@
 - 短时间内参加面试的前端开发者，可借助本书快速了解面试高频的技术问题和相关解答。
 - 前端面试官可参考本书的题型和题目，按岗位需求对候选人进行有梯度的考察。
 
+## Install App
+
+<img src="https://user-images.githubusercontent.com/17002181/219939116-80f0c3a9-e2cb-4fc6-ab9f-f1de091c39d6.gif" height="600" />
+
 ## CHANGELOG
+
+#### 2023/2/19
+
+- 剑指前端 Offer 网站添加 PWA 支持
 
 #### 2022/7/04
 
