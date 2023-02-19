@@ -20,7 +20,7 @@
 
 ## Install App
 
-<img src="https://user-images.githubusercontent.com/17002181/219939116-80f0c3a9-e2cb-4fc6-ab9f-f1de091c39d6.gif" height="600" />
+<img src="https://user-images.githubusercontent.com/17002181/219939116-80f0c3a9-e2cb-4fc6-ab9f-f1de091c39d6.gif" width="830" height="467" />
 
 ## CHANGELOG
 
