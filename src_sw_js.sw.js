@@ -26,7 +26,7 @@ function swCustom(params) {
 
   // Cache responses from external resources
   (0,workbox_routing__WEBPACK_IMPORTED_MODULE_0__.registerRoute)(context => {
-    return [/githubusercontent/].some(regex => context.url.href.match(regex));
+    return [/githubusercontent/, /\/awesome-interview\//].some(regex => context.url.href.match(regex));
   }, new workbox_strategies__WEBPACK_IMPORTED_MODULE_1__.StaleWhileRevalidate());
 }
 
