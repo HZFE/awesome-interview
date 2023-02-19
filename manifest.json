@@ -6,7 +6,7 @@
   "theme_color": "#2196f3",
   "background_color": "#fff",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/awesome-interview/",
   "icons": [
     {
       "src": "./img/badge-192.svg",
