@@ -1,0 +1,22 @@
+{
+  "id": "/awesome-interview/",
+  "short_name": "剑指前端Offer",
+  "name": "剑指前端Offer | HZFE",
+  "start_url": "/awesome-interview/",
+  "theme_color": "#2196f3",
+  "background_color": "#fff",
+  "display": "standalone",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "./img/badge-192.svg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./img/badge-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}

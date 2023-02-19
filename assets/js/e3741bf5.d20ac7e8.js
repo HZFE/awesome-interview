@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjjbook=self.webpackChunkjjbook||[]).push([[397],{7085:function(e){e.exports=JSON.parse('{"plugin":{"name":"docusaurus-theme-search-algolia","id":"default"}}')}}]);
